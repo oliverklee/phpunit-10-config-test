@@ -1,0 +1,8 @@
+{
+    "name": "oliverklee/phpunit-10-config-test",
+    "description": "Dummy project to test the PHPunit 10 config",
+    "require": {
+        "php": "^8.2",
+        "phpunit/phpunit": "10.5.7"
+    }
+}
